@@ -5,8 +5,6 @@ I am a **Full-Stack Web Developer** and **DevOps Enthusiast** passionate about b
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anik-kaushesh-997130323/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anik.kaushesh@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anik-kaushesh-997130323/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anik.kaushesh@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ak_kaushesh)
 [![CodeChef](https://img.shields.io/badge/CodeChef-3★-brown?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/akaushesh)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist-blue?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ak_kaushesh)
